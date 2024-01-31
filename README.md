@@ -55,11 +55,13 @@ home: const Provincias(title: 'Les comarques de la comunitat'),
 
 Cambia el nombre de la constante (Provincias) por el de la pantalla que quieras ver. 
 Los nombres de las pantallas son:
+
 · Comarcas
 · HomePage
 · InfoClima
 · InfoComarca
 · Provincias
+
 Por ejemplo, si quieres ver la pantalla de inicio, cambia la línea 27 por:
 
 home: const HomePage(title: 'Les comarques de la comunitat'),
